@@ -1,0 +1,10 @@
+C:\Users\IceHagane\Documents\Programación 3\Clases\Forms\Proyecto_Progra_3\Proyecto_Progra_3\bin\Debug\Proyecto_Progra_3.exe.config
+C:\Users\IceHagane\Documents\Programación 3\Clases\Forms\Proyecto_Progra_3\Proyecto_Progra_3\bin\Debug\Proyecto_Progra_3.exe
+C:\Users\IceHagane\Documents\Programación 3\Clases\Forms\Proyecto_Progra_3\Proyecto_Progra_3\bin\Debug\Proyecto_Progra_3.pdb
+C:\Users\IceHagane\Documents\Programación 3\Clases\Forms\Proyecto_Progra_3\Proyecto_Progra_3\obj\Debug\Proyecto_Progra_3.csprojResolveAssemblyReference.cache
+C:\Users\IceHagane\Documents\Programación 3\Clases\Forms\Proyecto_Progra_3\Proyecto_Progra_3\obj\Debug\Proyecto_Progra_3.frmMenuPrincipal.resources
+C:\Users\IceHagane\Documents\Programación 3\Clases\Forms\Proyecto_Progra_3\Proyecto_Progra_3\obj\Debug\Proyecto_Progra_3.Login.resources
+C:\Users\IceHagane\Documents\Programación 3\Clases\Forms\Proyecto_Progra_3\Proyecto_Progra_3\obj\Debug\Proyecto_Progra_3.Properties.Resources.resources
+C:\Users\IceHagane\Documents\Programación 3\Clases\Forms\Proyecto_Progra_3\Proyecto_Progra_3\obj\Debug\Proyecto_Progra_3.csproj.GenerateResource.Cache
+C:\Users\IceHagane\Documents\Programación 3\Clases\Forms\Proyecto_Progra_3\Proyecto_Progra_3\obj\Debug\Proyecto_Progra_3.exe
+C:\Users\IceHagane\Documents\Programación 3\Clases\Forms\Proyecto_Progra_3\Proyecto_Progra_3\obj\Debug\Proyecto_Progra_3.pdb
