@@ -9,3 +9,5 @@ C:\Users\IceHagane\Documents\Programación 3\Clases\Forms\Proyecto_Progra_3\Proy
 C:\Users\IceHagane\Documents\Programación 3\Clases\Forms\Proyecto_Progra_3\Proyecto_Progra_3\obj\Debug\Proyecto_Progra_3.exe
 C:\Users\IceHagane\Documents\Programación 3\Clases\Forms\Proyecto_Progra_3\Proyecto_Progra_3\obj\Debug\Proyecto_Progra_3.pdb
 C:\Users\Daniel\Documents\Visual Studio 2013\Projects\Proyecto_Progra_3\Proyecto_Progra_3\bin\Debug\Proyecto_Progra_3.exe.config
+C:\Users\IceHagane\Documents\Programación 3\Clases\Forms\Proyecto_Progra_3\Proyecto_Progra_3\obj\Debug\Proyecto_Progra_3.FrmProducto.resources
+C:\Users\IceHagane\Documents\Programación 3\Clases\Forms\Proyecto_Progra_3\Proyecto_Progra_3\obj\Debug\Proyecto_Progra_3.nuevoUsuario.resources

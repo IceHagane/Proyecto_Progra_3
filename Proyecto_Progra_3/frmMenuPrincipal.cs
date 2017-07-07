@@ -15,6 +15,18 @@ namespace Proyecto_Progra_3
         public frmMenuPrincipal()
         {
             InitializeComponent();
+            llenarLabelUsuario();
+        }
+
+        public void llenarLabelUsuario()
+        {
+            lblUsuario.Text = ClaseArchivador.username.ToString();
+        }
+
+        private void agregarNuevoUsuarioToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+            nuevoUsuario frm = new nuevoUsuario();
+            frm.ShowDialog();
         }
     }
 }
