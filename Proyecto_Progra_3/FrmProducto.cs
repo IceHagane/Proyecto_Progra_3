@@ -60,14 +60,14 @@ namespace Proyecto_Progra_3
         private void btnIngresar_MouseClick(object sender, MouseEventArgs e)
         {
             string nom;
-            int prec, stock, id_ent;
+            int prec, stock;
             nom = txtNombre.Text;
             prec = int.Parse(txtPrecio.Text);
             stock = int.Parse(txtStock.Text);
 
             string CadSql;
             CadSql = "insert into productos (nom_producto, precio_producto, stock_producto, id_ent) values ('" + nom + "'," + prec + "," +
-            stock + "," + Producto.id_ent + ");";
+            stock + "," + ClaseArchivador.id_ent + ");";
 
             try
             {
@@ -103,7 +103,7 @@ namespace Proyecto_Progra_3
                 con.EjecutarConsulta(ID);
                 while (con.Rec.Read())
                 {
-                    Producto.id_ent = Convert.ToInt32(con.Rec["id_ent"]);
+                    ClaseArchivador.id_ent = Convert.ToInt32(con.Rec["id_ent"]);
                 }
             }
             catch (Exception ex)

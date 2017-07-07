@@ -11,7 +11,7 @@ namespace Proyecto_Progra_3
 {
     class Conexion
     {
-        public static MySqlConnection Conex = new MySqlConnection("Server=localhost;Database=bd_prodgex;Uid=root;Pwd=''");
+        public static MySqlConnection Conex = new MySqlConnection("Server=localhost;Database=bd_prodgex;Uid=root;Pwd='root'");
         public MySqlCommand Comando = new MySqlCommand("", Conex);
         public MySqlDataReader Rec;
 
